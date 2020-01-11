@@ -1,0 +1,10 @@
+DESC,PRECISION,VALUE
+Units (in 5000 PIECES),3,270
+Units (any promo) (in 400 PIECES),2,10
+Units (no promo) (in 200 PIECES),6,840
+Units (tpr only) (in 1300 PIECES),2,100
+Units (on pack only) (in 2300 PIECES),8,10
+Volume (in 2000 KGS),9,1000
+Volume (any promo) (in 1070 KGS),2,100
+Volume (no promo) (in 1040 KGS),6,4301
+Volume (tpr only) (in 1050 KGS),11,3401
